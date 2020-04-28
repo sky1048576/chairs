@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chairs/static/css/main.2c496566.chunk.css",
+    "main.js": "/chairs/static/js/main.e0b4f373.chunk.js",
+    "main.js.map": "/chairs/static/js/main.e0b4f373.chunk.js.map",
+    "runtime-main.js": "/chairs/static/js/runtime-main.d7434da2.js",
+    "runtime-main.js.map": "/chairs/static/js/runtime-main.d7434da2.js.map",
+    "static/js/2.737554ef.chunk.js": "/chairs/static/js/2.737554ef.chunk.js",
+    "static/js/2.737554ef.chunk.js.map": "/chairs/static/js/2.737554ef.chunk.js.map",
+    "index.html": "/chairs/index.html",
+    "precache-manifest.504597602b5ae23cfa3feac87577ab02.js": "/chairs/precache-manifest.504597602b5ae23cfa3feac87577ab02.js",
+    "service-worker.js": "/chairs/service-worker.js",
+    "static/css/main.2c496566.chunk.css.map": "/chairs/static/css/main.2c496566.chunk.css.map",
+    "static/js/2.737554ef.chunk.js.LICENSE.txt": "/chairs/static/js/2.737554ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7434da2.js",
+    "static/js/2.737554ef.chunk.js",
+    "static/css/main.2c496566.chunk.css",
+    "static/js/main.e0b4f373.chunk.js"
+  ]
+}
